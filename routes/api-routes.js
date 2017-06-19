@@ -1,6 +1,7 @@
 var db = require('../models');
 var processor = require('./processor.js')
 var burger = db.Burger;
+var sequelize = db.sequelize;
 
 module.exports = function(app) {
     app.get('/', function(req, res) {            
