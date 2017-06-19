@@ -1,4 +1,4 @@
-# burger
+# sequelized burger
 eat-a-burger application
 
 To open application - go to https://protected-thicket-85417.herokuapp.com/
